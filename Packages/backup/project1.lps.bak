@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="12"/>
+    <BuildModes Active="Default"/>
+    <Units>
+      <Unit>
+        <Filename Value="project1.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <WindowIndex Value="-1"/>
+        <TopLine Value="-1"/>
+        <CursorPos X="-1" Y="-1"/>
+        <UsageCount Value="21"/>
+      </Unit>
+      <Unit>
+        <Filename Value="..\dbparsers.pas"/>
+        <UnitName Value="DBParsers"/>
+        <TopLine Value="9"/>
+        <CursorPos X="35" Y="26"/>
+        <UsageCount Value="10"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="..\DBCommon.pas"/>
+        <EditorIndex Value="1"/>
+        <TopLine Value="137"/>
+        <CursorPos X="41" Y="164"/>
+        <UsageCount Value="10"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="..\SqlTimSt.pas"/>
+        <EditorIndex Value="3"/>
+        <CursorPos X="36" Y="22"/>
+        <UsageCount Value="10"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="..\FIBPlus.inc"/>
+        <EditorIndex Value="2"/>
+        <TopLine Value="316"/>
+        <CursorPos X="2" Y="347"/>
+        <UsageCount Value="10"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="C:\lazarus\fpc\3.2.2\source\rtl\inc\varianth.inc"/>
+        <EditorIndex Value="5"/>
+        <TopLine Value="78"/>
+        <CursorPos X="90" Y="99"/>
+        <UsageCount Value="10"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="..\system.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="System"/>
+        <IsVisibleTab Value="True"/>
+        <EditorIndex Value="4"/>
+        <TopLine Value="23042"/>
+        <CursorPos X="5" Y="23087"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+      </Unit>
+    </Units>
+    <JumpHistory HistoryIndex="29">
+      <Position>
+        <Filename Value="..\SqlTimSt.pas"/>
+        <Caret Line="45" Column="31" TopLine="29"/>
+      </Position>
+      <Position>
+        <Filename Value="..\SqlTimSt.pas"/>
+        <Caret Line="42" Column="110" TopLine="29"/>
+      </Position>
+      <Position>
+        <Filename Value="..\SqlTimSt.pas"/>
+        <Caret Line="45" Column="31" TopLine="29"/>
+      </Position>
+      <Position>
+        <Filename Value="..\SqlTimSt.pas"/>
+        <Caret Line="974" Column="30" TopLine="952"/>
+      </Position>
+      <Position>
+        <Filename Value="..\SqlTimSt.pas"/>
+        <Caret Line="1172" Column="10" TopLine="1154"/>
+      </Position>
+      <Position>
+        <Filename Value="..\SqlTimSt.pas"/>
+        <Caret Line="1169" Column="44" TopLine="1151"/>
+      </Position>
+      <Position>
+        <Filename Value="..\SqlTimSt.pas"/>
+        <Caret Line="45" Column="7" TopLine="36"/>
+      </Position>
+      <Position>
+        <Filename Value="..\SqlTimSt.pas"/>
+        <Caret Line="59" Column="55" TopLine="50"/>
+      </Position>
+      <Position>
+        <Filename Value="..\SqlTimSt.pas"/>
+        <Caret Line="1568" Column="5"/>
+      </Position>
+      <Position>
+        <Filename Value="..\SqlTimSt.pas"/>
+        <Caret Line="25" Column="45" TopLine="19"/>
+      </Position>
+      <Position>
+        <Filename Value="..\SqlTimSt.pas"/>
+        <Caret Line="17" Column="25"/>
+      </Position>
+      <Position>
+        <Filename Value="..\FIBPlus.inc"/>
+        <Caret Line="347" Column="2" TopLine="316"/>
+      </Position>
+      <Position>
+        <Filename Value="..\SqlTimSt.pas"/>
+        <Caret Line="17" Column="34"/>
+      </Position>
+      <Position>
+        <Filename Value="..\SqlTimSt.pas"/>
+        <Caret Line="276" Column="5" TopLine="250"/>
+      </Position>
+      <Position>
+        <Filename Value="..\SqlTimSt.pas"/>
+        <Caret Line="333" Column="45" TopLine="326"/>
+      </Position>
+      <Position>
+        <Filename Value="..\SqlTimSt.pas"/>
+        <Caret Line="293" Column="24" TopLine="274"/>
+      </Position>
+      <Position>
+        <Filename Value="..\SqlTimSt.pas"/>
+        <Caret Line="343" Column="31" TopLine="321"/>
+      </Position>
+      <Position>
+        <Filename Value="..\DBCommon.pas"/>
+        <Caret Line="164" Column="41" TopLine="137"/>
+      </Position>
+      <Position>
+        <Filename Value="..\SqlTimSt.pas"/>
+        <Caret Line="900" Column="33" TopLine="881"/>
+      </Position>
+      <Position>
+        <Filename Value="..\SqlTimSt.pas"/>
+        <Caret Line="158" Column="28" TopLine="142"/>
+      </Position>
+      <Position>
+        <Filename Value="..\SqlTimSt.pas"/>
+        <Caret Line="332" Column="23"/>
+      </Position>
+      <Position>
+        <Filename Value="..\SqlTimSt.pas"/>
+        <Caret Line="1252" Column="24" TopLine="1224"/>
+      </Position>
+      <Position>
+        <Filename Value="..\SqlTimSt.pas"/>
+        <Caret Line="1253" Column="25" TopLine="1225"/>
+      </Position>
+      <Position>
+        <Filename Value="..\SqlTimSt.pas"/>
+        <Caret Line="1254" Column="27" TopLine="1226"/>
+      </Position>
+      <Position>
+        <Filename Value="..\SqlTimSt.pas"/>
+        <Caret Line="17" Column="42"/>
+      </Position>
+      <Position>
+        <Filename Value="C:\lazarus\fpc\3.2.2\source\rtl\inc\varianth.inc"/>
+        <Caret Line="99" Column="90" TopLine="78"/>
+      </Position>
+      <Position>
+        <Filename Value="..\SqlTimSt.pas"/>
+        <Caret Line="6" Column="122"/>
+      </Position>
+      <Position>
+        <Filename Value="..\system.pas"/>
+        <Caret TopLine="52"/>
+      </Position>
+      <Position>
+        <Filename Value="..\SqlTimSt.pas"/>
+        <Caret Line="22" Column="36"/>
+      </Position>
+      <Position>
+        <Filename Value="..\system.pas"/>
+        <Caret Line="35" Column="52" TopLine="20"/>
+      </Position>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>

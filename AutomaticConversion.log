@@ -1,0 +1,3 @@
+SqlTimSt.pas Note: Модуль "Windows" в выражении Uses заменён на "LCLIntf, LCLType, LMessages".
+SqlTimSt.pas(9,15) Note: После имени модуля добавлена директива MODE Delphi.
+ : Преобразование завершено.

@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <Package Version="5">
+    <PathDelim Value="\"/>
+    <Name Value="FIB"/>
+    <Type Value="RunAndDesignTime"/>
+    <CompilerOptions>
+      <Version Value="11"/>
+      <PathDelim Value="\"/>
+      <SearchPaths>
+        <OtherUnitFiles Value=".."/>
+        <UnitOutputDirectory Value="lib\$(TargetCPU)-$(TargetOS)\"/>
+      </SearchPaths>
+    </CompilerOptions>
+    <Files>
+      <Item>
+        <Filename Value="..\dbparsers.pas"/>
+        <UnitName Value="DBParsers"/>
+      </Item>
+      <Item>
+        <Filename Value="..\dscontainer.pas"/>
+        <UnitName Value="DSContainer"/>
+      </Item>
+      <Item>
+        <Filename Value="..\fib.pas"/>
+        <UnitName Value="fib"/>
+      </Item>
+      <Item>
+        <Filename Value="..\fib_fmx_dblogindlg.pas"/>
+        <UnitName Value="FIB_FMX_DBLoginDlg"/>
+      </Item>
+      <Item>
+        <Filename Value="..\fibcachemanage.pas"/>
+        <UnitName Value="FIBCacheManage"/>
+      </Item>
+      <Item>
+        <Filename Value="..\fibclonecomponents.pas"/>
+        <UnitName Value="FIBCloneComponents"/>
+      </Item>
+      <Item>
+        <Filename Value="..\fibconsts.pas"/>
+        <UnitName Value="FIBConsts"/>
+      </Item>
+      <Item>
+        <Filename Value="..\fibdatabase.pas"/>
+        <UnitName Value="FIBDatabase"/>
+      </Item>
+      <Item>
+        <Filename Value="..\fibdataset.pas"/>
+        <UnitName Value="FIBDataSet"/>
+      </Item>
+      <Item>
+        <Filename Value="..\FIBDBLoginDlg.pas"/>
+        <UnitName Value="FIBDBLoginDlg"/>
+      </Item>
+      <Item>
+        <Filename Value="..\FIBMiscellaneous.pas"/>
+        <UnitName Value="FIBMiscellaneous"/>
+      </Item>
+      <Item>
+        <Filename Value="..\FIBPlatforms.pas"/>
+        <UnitName Value="FIBPlatforms"/>
+      </Item>
+      <Item>
+        <Filename Value="..\FIBQuery.pas"/>
+        <UnitName Value="FIBQuery"/>
+      </Item>
+      <Item>
+        <Filename Value="..\FIBSafeTimer.pas"/>
+        <UnitName Value="FIBSafeTimer"/>
+      </Item>
+      <Item>
+        <Filename Value="..\FIBSQLMonitor.pas"/>
+        <UnitName Value="FIBSQLMonitor"/>
+      </Item>
+      <Item>
+        <Filename Value="..\IB_ErrorCodes.pas"/>
+        <UnitName Value="IB_ErrorCodes"/>
+      </Item>
+      <Item>
+        <Filename Value="..\IB_Externals.pas"/>
+        <UnitName Value="IB_Externals"/>
+      </Item>
+      <Item>
+        <Filename Value="..\IB_Install.pas"/>
+        <UnitName Value="IB_Install"/>
+      </Item>
+      <Item>
+        <Filename Value="..\IB_InstallHeader.pas"/>
+        <UnitName Value="IB_InstallHeader"/>
+      </Item>
+      <Item>
+        <Filename Value="..\IB_Intf.pas"/>
+        <UnitName Value="IB_Intf"/>
+      </Item>
+      <Item>
+        <Filename Value="..\IB_Services.pas"/>
+        <UnitName Value="IB_Services"/>
+      </Item>
+      <Item>
+        <Filename Value="..\ibase.pas"/>
+        <UnitName Value="ibase"/>
+      </Item>
+      <Item>
+        <Filename Value="..\IBBlobFilter.pas"/>
+        <UnitName Value="IBBlobFilter"/>
+      </Item>
+      <Item>
+        <Filename Value="..\pFIBArray.pas"/>
+        <UnitName Value="pFIBArray"/>
+      </Item>
+      <Item>
+        <Filename Value="..\pFIBCacheQueries.pas"/>
+        <UnitName Value="pFIBCacheQueries"/>
+      </Item>
+      <Item>
+        <Filename Value="..\pFIBClientDataSet.pas"/>
+        <HasRegisterProc Value="True"/>
+        <UnitName Value="pFIBClientDataSet"/>
+      </Item>
+      <Item>
+        <Filename Value="..\pFIBDatabase.pas"/>
+        <UnitName Value="pFIBDatabase"/>
+      </Item>
+      <Item>
+        <Filename Value="..\pFIBDataInfo.pas"/>
+        <UnitName Value="pFIBDataInfo"/>
+      </Item>
+      <Item>
+        <Filename Value="..\pFIBDataRefresh.pas"/>
+        <UnitName Value="pFIBDataRefresh"/>
+      </Item>
+      <Item>
+        <Filename Value="..\pFIBDataSet.pas"/>
+        <UnitName Value="pFIBDataSet"/>
+      </Item>
+      <Item>
+        <Filename Value="..\pFIBErrorHandler.pas"/>
+        <UnitName Value="pFIBErrorHandler"/>
+      </Item>
+      <Item>
+        <Filename Value="..\pFIBEventLists.pas"/>
+        <UnitName Value="pFIBEventLists"/>
+      </Item>
+      <Item>
+        <Filename Value="..\pFIBExports.pas"/>
+        <UnitName Value="pFIBExports"/>
+      </Item>
+      <Item>
+        <Filename Value="..\pFIBFieldsDescr.pas"/>
+        <UnitName Value="pFIBFieldsDescr"/>
+      </Item>
+      <Item>
+        <Filename Value="..\pFIBInterfaces.pas"/>
+        <UnitName Value="pFIBInterfaces"/>
+      </Item>
+      <Item>
+        <Filename Value="..\pFIBLists.pas"/>
+        <UnitName Value="pFIBLists"/>
+      </Item>
+      <Item>
+        <Filename Value="..\pFIBMetaData.pas"/>
+        <UnitName Value="pFIBMetaData"/>
+      </Item>
+      <Item>
+        <Filename Value="..\pFIBProps.pas"/>
+        <UnitName Value="pFIBProps"/>
+      </Item>
+      <Item>
+        <Filename Value="..\pFIBQuery.pas"/>
+        <UnitName Value="pFIBQuery"/>
+      </Item>
+      <Item>
+        <Filename Value="..\pFIBScripter.pas"/>
+        <UnitName Value="pFIBScripter"/>
+      </Item>
+      <Item>
+        <Filename Value="..\pFIBSQLLog.pas"/>
+        <UnitName Value="pFIBSQLLog"/>
+      </Item>
+      <Item>
+        <Filename Value="..\pFIBStoredProc.pas"/>
+        <UnitName Value="pFIBStoredProc"/>
+      </Item>
+      <Item>
+        <Filename Value="..\pTestInfo.pas"/>
+        <UnitName Value="pTestInfo"/>
+      </Item>
+      <Item>
+        <Filename Value="..\RegFIBPlus.pas"/>
+        <HasRegisterProc Value="True"/>
+        <UnitName Value="RegFIBPlus"/>
+      </Item>
+      <Item>
+        <Filename Value="..\RegUtils.pas"/>
+        <UnitName Value="RegUtils"/>
+      </Item>
+      <Item>
+        <Filename Value="..\SIBAPI.pas"/>
+        <UnitName Value="SIBAPI"/>
+      </Item>
+      <Item>
+        <Filename Value="..\SIBEABase.pas"/>
+        <UnitName Value="SIBEABase"/>
+      </Item>
+      <Item>
+        <Filename Value="..\SIBFIBEA.PAS"/>
+        <UnitName Value="SIBFIBEA"/>
+      </Item>
+      <Item>
+        <Filename Value="..\SIBGlobals.pas"/>
+        <UnitName Value="SIBGlobals"/>
+      </Item>
+      <Item>
+        <Filename Value="..\SqlTxtRtns.pas"/>
+        <UnitName Value="SqlTxtRtns"/>
+      </Item>
+      <Item>
+        <Filename Value="..\StdFuncs.pas"/>
+        <UnitName Value="StdFuncs"/>
+      </Item>
+      <Item>
+        <Filename Value="..\StrUtil.pas"/>
+        <UnitName Value="StrUtil"/>
+      </Item>
+      <Item>
+        <Filename Value="..\VariantRtn.pas"/>
+        <UnitName Value="VariantRtn"/>
+      </Item>
+      <Item>
+        <Filename Value="..\SqlTimSt.pas"/>
+        <UnitName Value="SqlTimSt"/>
+      </Item>
+    </Files>
+    <RequiredPkgs>
+      <Item>
+        <PackageName Value="FCL"/>
+      </Item>
+    </RequiredPkgs>
+    <UsageOptions>
+      <UnitPath Value="$(PkgOutDir)"/>
+    </UsageOptions>
+    <PublishOptions>
+      <Version Value="2"/>
+      <UseFileFilters Value="True"/>
+    </PublishOptions>
+  </Package>
+</CONFIG>
